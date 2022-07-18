@@ -36,7 +36,7 @@ p {
 article {
   margin: 1em;
   padding: 1em;
-  background-color: midnightblue;
+  background-color: #360f2a;
   color: whitesmoke;
   border-radius: 15px;
 }
@@ -74,4 +74,9 @@ img {
   top: 1rem;
   left: 1rem;
   color: #fff;
+}
+
+a:any-link{
+  color: #fff;
+  text-decoration: none;
 }
